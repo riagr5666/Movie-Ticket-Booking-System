@@ -1,4 +1,4 @@
-# Movie-Ticket-Reservation-System
+# Movie-Ticket-Booking-System
 In this I have created a prototype for movie ticket reservation system in which user have to go various steps to book ticket
 In this project, I have created a prototype to reserve a ticket for a movie 
 1. User has to go through verification by entering username and password if they don't have one they can create one 

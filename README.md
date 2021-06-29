@@ -8,4 +8,4 @@ In this project, I have created a prototype to reserve a ticket for a movie
 5. user too can cancel the ticket once reserved if they want.
 please note: As this is a prototype the SMS API is one demo version so the SMS will be delivered to only one account if I purchase API , SMS will be able to send directly to the user without changing the code much only have to remove 2 comments.
 
-+++++++++++THIS IS A PROTOTYPE ONLY SO KINDLY GIVE SUGGESTION RATHER POINTING OUT MISTAKES++++++++++++++++
+####THIS IS A PROTOTYPE ONLY SO KINDLY GIVE SUGGESTION RATHER POINTING OUT MISTAKES####
